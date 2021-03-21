@@ -1,0 +1,58 @@
+commit 6e13dc91f67815289c4cb2fee1d721ec2d8a0212
+Author: Tatu Sorjonen <tatu.sorjonen@gmail.com>
+Date:   Sun Mar 21 16:03:08 2021 +0200
+
+    Commitoitu
+
+ tiedosto.txt => eka.txt | 0
+ file1                   | 0
+ file2                   | 0
+ file3                   | 0
+ stuff/tiedosto.txt      | 2 ++
+ 5 files changed, 2 insertions(+)
+
+commit 21da51d4a38ceca3bc1d0a617dba61ef6f33956e
+Author: Tatu Sorjonen <tatu.sorjonen@gmail.com>
+Date:   Sat Mar 20 19:26:02 2021 +0200
+
+    moikka
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7f4770a22c92a4f07b8cfcfb1b401b86e50e4fd8
+Author: Tatu Sorjonen <tatu.sorjonen@gmail.com>
+Date:   Sat Mar 20 14:14:05 2021 +0200
+
+    moikka
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7ee7733528c668476528f9ef53b7eb8fe1d75dba
+Author: Tatu Sorjonen <tatu.sorjonen@gmail.com>
+Date:   Sat Mar 20 14:09:19 2021 +0200
+
+    moikka
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c91dbb37981b9c5170a723db3e757a2ac8b4491e
+Author: Tatu Sorjonen <tatu.sorjonen@gmail.com>
+Date:   Sat Mar 20 13:33:20 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 7549c8bc9e2f223074c019220ec040f0f417ab14
+Author: Tatu Sorjonen <tatu.sorjonen@gmail.com>
+Date:   Sat Mar 20 12:10:33 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
