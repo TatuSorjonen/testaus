@@ -8,8 +8,8 @@
 
 **Viikko2**
 
-[Kattavuusraportti kassapaate](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/laskarit/viikko2/Screenshot%20from%202021-03-30%2017-24-50.png) <br />
-<br />
+[Kattavuusraportti Kassapaate](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/laskarit/viikko2/Screenshot%20from%202021-03-30%2017-24-50.png) <br />
+[Kattavuusraportti Maksukortti](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/laskarit/viikko2/Screenshot%20from%202021-03-30%2020-03-56.png) <br />
 
 **Todo-lista**
 
