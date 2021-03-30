@@ -22,5 +22,5 @@ Aluksi palaa ei pysty liikutamaan tai pyörittämään vaan se ainoastaan putoaa
 
 **Jatkoideoita jos jää aikaa**
 
--Tehdään kirjautumismahdollisuus käyttäjille.
--Laitetaan parhaat pisteet ylös.
+- Tehdään kirjautumismahdollisuus käyttäjille.
+- Laitetaan parhaat pisteet ylös.
