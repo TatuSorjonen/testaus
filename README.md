@@ -13,4 +13,6 @@
 
 **Todo-lista**
 
+[Tuntikirjanpito](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/maarittelydokumentti/tuntikirjanpito) <br />
+
 
