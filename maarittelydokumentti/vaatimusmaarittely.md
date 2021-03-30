@@ -20,3 +20,7 @@ Aluksi palaa ei pysty liikutamaan tai pyörittämään vaan se ainoastaan putoaa
 - Paloja voi pyöritellä ja liikuttamaan.
 - Peli loppuu kun pala ei mahdu tietyn muotoiselle alueelle.
 
+**Jatkoideoita jos jää aikaa**
+
+-Tehdään kirjautumismahdollisuus käyttäjille.
+-Laitetaan parhaat pisteet ylös.
