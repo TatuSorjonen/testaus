@@ -9,3 +9,8 @@
 **Viikko2**
 
 [Kattavuusraportti kassapaate](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/laskarit/viikko2/Screenshot%20from%202021-03-30%2017-24-50.png) <br />
+<br />
+
+**Todo-lista**
+
+
