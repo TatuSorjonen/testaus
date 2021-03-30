@@ -4,7 +4,7 @@
             <actionName>CUSTOM-testikattavuus</actionName>
             <displayName>testikattavuus</displayName>
             <goals>
-                <goal>jacoco:report</goal>
+                <goal>jacobo:report</goal>
             </goals>
         </action>
     </actions>
