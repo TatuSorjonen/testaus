@@ -14,7 +14,6 @@
 **Todo-lista**
 
 [Tuntikirjanpito](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/maarittelydokumentti/tuntikirjanpito.md) <br />
-
 [Vaatimusmäärittely](https://github.com/TatuSorjonen/ot-harjoitustyo/blob/master/maarittelydokumentti/vaatimusmaarittely.md)
 
 
